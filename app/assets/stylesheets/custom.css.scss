@@ -22,6 +22,11 @@ $navbar-default-bg: #151c9f;
     text-align: center;
 }
 
+.margins-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .jumbotron {
     background-image: asset-url('new_cover_page.jpg');
     background-size: cover;
